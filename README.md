@@ -1,4 +1,4 @@
-# 论PHP框架是如何诞生的代码
+# 论PHP框架是如何诞生的代码 - 不用看了，之前的域名已经没有续费了，之后会重新写一套健全点的教程
 
 文章地址： http://www.zhoujiping.com/php/build-your-own-php-framework/ 
 
